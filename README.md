@@ -29,5 +29,5 @@ The user must enter their name to submit it into the score list. No entry is als
 
 This shows all the scores ever submitted. The list is scrollable.
 
-<img src="doc/07.png" height=240>
-<img src="doc/08.png" width=240>
+<img src="doc/07.png" width=240>
+<img src="doc/08.png" height=240>
