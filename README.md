@@ -23,7 +23,7 @@ Once the game has started, the user must answer 20 questions. The player can see
 The user must enter their name to submit it into the score list. No entry is also accepted, cause why not. The 'done' button on the user's keyboard performs the same function as the 'submit' button on the screen.
 
 <img src="doc/05.png" width=240>
-<img src="doc/06.png" heigth=240>
+<img src="doc/06.png" height=240>
 
 ### View the highscore list
 
